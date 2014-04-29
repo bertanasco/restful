@@ -1,0 +1,14 @@
+{
+  "name": "rest",
+  "version": "0.0.1",
+  "description": "Boiler plate code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bert.anasco",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.1.1"
+  }
+}
